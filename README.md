@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GeekyGauravbharat/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
