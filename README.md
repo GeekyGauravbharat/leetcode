@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GeekyGauravbharat/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
