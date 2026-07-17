@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GeekyGauravbharat/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/GeekyGauravbharat/leetcode/tree/master/0007-reverse-integer) |
 | [1025-divisor-game](https://github.com/GeekyGauravbharat/leetcode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GeekyGauravbharat/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
