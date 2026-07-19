@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GeekyGauravbharat/leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/GeekyGauravbharat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/GeekyGauravbharat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -94,4 +96,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GeekyGauravbharat/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/GeekyGauravbharat/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
