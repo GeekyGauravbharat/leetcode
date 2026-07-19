@@ -15,6 +15,7 @@
 | [0005-longest-palindromic-substring](https://github.com/GeekyGauravbharat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/GeekyGauravbharat/leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1025-divisor-game](https://github.com/GeekyGauravbharat/leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -36,6 +37,7 @@
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
