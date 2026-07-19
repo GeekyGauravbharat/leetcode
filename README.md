@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/GeekyGauravbharat/leetcode/tree/master/0009-palindrome-number) |
 | [1025-divisor-game](https://github.com/GeekyGauravbharat/leetcode/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GeekyGauravbharat/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1025-divisor-game](https://github.com/GeekyGauravbharat/leetcode/tree/master/1025-divisor-game) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Brainteaser
 |  |
 | ------- |
