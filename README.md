@@ -38,6 +38,7 @@
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,10 +69,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +90,8 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/GeekyGauravbharat/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
