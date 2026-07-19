@@ -83,4 +83,8 @@
 | ------- |
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/GeekyGauravbharat/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
