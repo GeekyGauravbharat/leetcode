@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/GeekyGauravbharat/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GeekyGauravbharat/leetcode/tree/master/0009-palindrome-number) |
 | [1025-divisor-game](https://github.com/GeekyGauravbharat/leetcode/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GeekyGauravbharat/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -30,6 +31,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GeekyGauravbharat/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -41,6 +43,7 @@
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
