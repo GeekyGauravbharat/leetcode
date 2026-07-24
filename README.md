@@ -43,6 +43,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0189-rotate-array) |
@@ -94,12 +95,14 @@
 | [0005-longest-palindromic-substring](https://github.com/GeekyGauravbharat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
 | ------- |
