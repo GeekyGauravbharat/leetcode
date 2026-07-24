@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/GeekyGauravbharat/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GeekyGauravbharat/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GeekyGauravbharat/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/GeekyGauravbharat/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/GeekyGauravbharat/leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -44,6 +45,7 @@
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -92,6 +94,7 @@
 | [0005-longest-palindromic-substring](https://github.com/GeekyGauravbharat/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
