@@ -43,6 +43,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/GeekyGauravbharat/leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/GeekyGauravbharat/leetcode/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/GeekyGauravbharat/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GeekyGauravbharat/leetcode/tree/master/0118-pascals-triangle) |
@@ -56,6 +57,7 @@
 | [0001-two-sum](https://github.com/GeekyGauravbharat/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeekyGauravbharat/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GeekyGauravbharat/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/GeekyGauravbharat/leetcode/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/GeekyGauravbharat/leetcode/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -132,4 +135,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GeekyGauravbharat/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/GeekyGauravbharat/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
