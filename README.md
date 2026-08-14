@@ -50,6 +50,7 @@
 | [0119-pascals-triangle-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/GeekyGauravbharat/leetcode/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GeekyGauravbharat/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GeekyGauravbharat/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/GeekyGauravbharat/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/GeekyGauravbharat/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
